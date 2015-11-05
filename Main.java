@@ -11,7 +11,7 @@ public class Main {
         //OR
         System.out.println(Integer.toString(52,8));
 //Given an integer, write code to print out the number of 1s in its bitstring
-        
+
     }
 
     }
